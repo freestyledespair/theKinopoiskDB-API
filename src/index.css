@@ -1,0 +1,63 @@
+body {
+  text-align: center;
+  background: rgb(238, 174, 202);
+  background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(62, 127, 172, 1) 100%);
+}
+
+h1 {
+  color: rgb(186, 38, 38);
+}
+
+form {
+  text-align: end;
+}
+
+input {
+  margin-top: 10px;
+  width: 250px;
+  height: 45px;
+  border-radius: 1em;
+  background-color: rgba(0, 0, 255, 0.225);
+  border: none;
+  margin-right: 10px;
+}
+
+input::placeholder {
+  color: bisque;
+  font-style: italic;
+}
+
+input:hover::placeholder {
+  color: rgba(255, 0, 0, 0);
+}
+
+button {
+  height: 40px;
+  width: 80px;
+  border-radius: 5px;
+  background-color: rgba(100, 148, 237, 0.603);
+  border: none;
+  color: bisque
+}
+
+button:hover {
+  background-color: rgba(0, 0, 255, 0.388);
+  border: 1px solid rgba(0, 0, 255, 0.573);
+  border-radius: 40%;
+}
+
+
+
+.img_block {
+  box-shadow: 0 5px 30px 0 rgba(213, 108, 10, 0.649);
+}
+
+.film_block {
+  box-shadow: 0 5px 30px 0 rgba(58, 13, 221, 0.744);
+}
+
+h1,
+h2,
+h3 {
+  text-shadow: 4px 4px 4px #ccc;
+}
