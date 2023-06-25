@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/theKinopoiskDB-API/static/css/main.1cb4ea9a.css",
+    "main.js": "/theKinopoiskDB-API/static/js/main.3ec5bf7b.js",
+    "index.html": "/theKinopoiskDB-API/index.html",
+    "main.1cb4ea9a.css.map": "/theKinopoiskDB-API/static/css/main.1cb4ea9a.css.map",
+    "main.3ec5bf7b.js.map": "/theKinopoiskDB-API/static/js/main.3ec5bf7b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cb4ea9a.css",
+    "static/js/main.3ec5bf7b.js"
+  ]
+}
